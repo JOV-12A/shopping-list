@@ -1,3 +1,10 @@
+
+Bathing soap
+detergent
+vim
+gloves
+shower gel
+shampoo
 cabbages
 meat
 tomatoes
@@ -13,3 +20,4 @@ bread
 oreo
 winnaz
 chocolate
+ 
